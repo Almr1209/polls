@@ -1,2 +1,2 @@
-# Polls Django PRoject Template for Repl.it
+# Polls Django Project Template for Repl.it
 Fork this project and create a new Repl
